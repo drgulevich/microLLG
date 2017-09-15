@@ -1,6 +1,6 @@
 # microLLG
 
-Examples:
+**Examples:**
 
 ![Alt text](/lattice-deformation.png?raw=true "Skyrmion Lattice Deformation")
 
