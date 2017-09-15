@@ -13,23 +13,23 @@ Test of model of a notch structure studied in Ref. J. Iwasaki, M. Mochizuki and 
 
 **Basic usage:**
 
-1. Compile the C library (produces the dynamic library "libsky.so"):
+Compile the C library (produces the dynamic library "libsky.so"):
 
 $ make
 
-2. Run iPython interactive interface:
+Run iPython interactive interface:
 
 $ ipython
 
-3. Run the commands in iPython:
+Run the command in iPython
 
 [1] run sky.py
 
-Executes the Python code sky.py linked to the compiled C library "libsky.so".
+to execute the simulation with the Python code sky.py linked to the compiled C library "libsky.so",
 
 [2] run -i display
 
-to display the last frame, or
+to display the last frame, or,
 
 [3] run -i anim
 
