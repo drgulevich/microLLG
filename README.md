@@ -4,4 +4,4 @@
 
 ![Alt text](/sklattice.png?raw=true "Skyrmion Lattice")
 
-![Alt text](/sklattice.png?raw=true "skyrmion-nucleation.gif")
+![Alt text](/skyrmion-nucleation.gif?raw=true "Skyrmion Nucleation")
