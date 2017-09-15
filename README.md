@@ -10,3 +10,27 @@ Deformation of a skyrmion lattice in presence of linearly polarized off-resonant
 ![Alt text](/skyrmion-nucleation.gif?raw=true "Skyrmion Nucleation")
 
 Test of model of a notch structure studied in Ref. J. Iwasaki, M. Mochizuki and N. Nagaosa, "Current-induced skyrmion dynamics in constricted geometries", Nan. Nanotech. 8, 743 (2013)
+
+**Basic usage:**
+
+1. Compile the C library (produces the dynamic library "libsky.so"):
+
+$ make
+
+2. Run iPython interactive interface:
+
+$ ipython
+
+3. Run the commands in iPython:
+
+[1] run sky.py
+
+Executes the Python code sky.py linked to the compiled C library "libsky.so".
+
+[2] run -i display
+
+to display the last frame, or
+
+[3] run -i anim
+
+to animate the simulation.
