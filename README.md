@@ -13,7 +13,7 @@ Deformation of a skyrmion lattice in presence of linearly polarized off-resonant
 
 ![Alt text](/skyrmion-nucleation.gif?raw=true "Skyrmion Nucleation")
 
-Test of model of a notch structure studied in Ref. J. Iwasaki, M. Mochizuki and N. Nagaosa, "Current-induced skyrmion dynamics in constricted geometries", Nan. Nanotech. 8, 743 (2013).
+Test of a model of notch structure similar to the one studied in Ref. J. Iwasaki, M. Mochizuki and N. Nagaosa, "Current-induced skyrmion dynamics in constricted geometries", Nan. Nanotech. 8, 743 (2013).
 
 **Basic usage:**
 
