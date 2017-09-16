@@ -31,10 +31,10 @@ Run the command in iPython
 
 to execute the simulation with the Python code sky.py linked to the compiled C library "libsky.so",
 
-[2] run -i display
+[2] run -i display.py
 
 to display the last frame, or,
 
-[3] run -i anim
+[3] run -i anim.py
 
 to animate the simulation.
