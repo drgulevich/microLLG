@@ -1,6 +1,6 @@
 # microLLG
 
-The program simulates evolution of the sublattice magnetization vector in ferromagnets or antiferromagnets on a square lattice by solving the Landau-Lifshitz-Gilbert equation in presence of spin-transfer torques (STT, at the moment, homogeneous current distribution along x is implemented). Stationary solutions when STT are absent, such as skyrmions and domain walls, can be found by starting from a seed solution and evolving the time-dependent system in presence of the Gilbert damping until the stationary state is reached.
+The program simulates evolution of the sublattice magnetization vector in ferromagnets or antiferromagnets on a square lattice by solving the Landau-Lifshitz-Gilbert equation in presence of spin-transfer torques (STT, homogeneous current distribution along x is implemented for now). Stationary solutions when STT are absent, such as skyrmions and domain walls, can be found by starting from a seed solution and evolving the time-dependent system in presence of the Gilbert damping until the stationary state is reached.
 
 At the moment the code is not well documented and lacks proper commentaries in the code.
 
